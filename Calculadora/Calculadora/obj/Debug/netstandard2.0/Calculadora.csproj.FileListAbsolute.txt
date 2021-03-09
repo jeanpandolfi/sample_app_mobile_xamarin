@@ -1,0 +1,14 @@
+C:\dev\Calculadora\Calculadora\Calculadora\bin\Debug\netstandard2.0\Calculadora.deps.json
+C:\dev\Calculadora\Calculadora\Calculadora\bin\Debug\netstandard2.0\Calculadora.dll
+C:\dev\Calculadora\Calculadora\Calculadora\bin\Debug\netstandard2.0\ref\Calculadora.dll
+C:\dev\Calculadora\Calculadora\Calculadora\bin\Debug\netstandard2.0\Calculadora.pdb
+C:\dev\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.csprojAssemblyReference.cache
+C:\dev\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\dev\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\dev\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.AssemblyInfoInputs.cache
+C:\dev\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.AssemblyInfo.cs
+C:\dev\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\dev\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\XamlC.stamp
+C:\dev\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.dll
+C:\dev\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\ref\Calculadora.dll
+C:\dev\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.pdb

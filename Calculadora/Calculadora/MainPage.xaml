@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadora.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Imprimir Nome Completo!" FontSize="Title" Padding="30,10,30,10"/>
+
+        <Entry x:Name="nome" Placeholder="Nome"/>
+        <Entry x:Name="sobrenome" Placeholder="Sobrenome"/>
+
+        <Button Text="Nome Completo" Clicked="dizerNomeCompleto"></Button>
+
+    </StackLayout>
+
+</ContentPage>
